@@ -28,7 +28,7 @@ Repositório destinado aos meus exercícios e estudos do curso de Análise de Da
 
 ## Mapa
 
-- [Primeiras Análises]()
+- [Primeiras Análises](https://github.com/isabellestrojake/dnc-bi-analyst/tree/main/Excel/01%20-%20Primeiras%20An%C3%A1lises)
 
 ## Autora
 

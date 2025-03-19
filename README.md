@@ -31,6 +31,8 @@ Repositório destinado aos meus exercícios e estudos do curso de Análise de Da
 - [Primeiras Análises](https://github.com/isabellestrojake/dnc-bi-analyst/tree/main/Excel/01%20-%20Primeiras%20An%C3%A1lises)
 - [Análise Exploratória](https://github.com/isabellestrojake/dnc-bi-analyst/tree/main/Excel/02%20-%20An%C3%A1lise%20Explorat%C3%B3ria)
 - [Análise Gráfica Simples](https://github.com/isabellestrojake/dnc-bi-analyst/tree/main/Excel/03%20-%20An%C3%A1lise%20Gr%C3%A1fica%20Simples)
+- [Análise Dinâmica](https://github.com/isabellestrojake/dnc-bi-analyst/tree/main/Excel/04%20-%20An%C3%A1lise%20Din%C3%A2mica)
+
 
 ## Autora
 
